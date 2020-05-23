@@ -52,3 +52,4 @@ gem 'ostruct', '~> 0.1.0'
 
 gem 'bootstrap', '~> 4.5.0'
 gem 'jquery-rails'
+gem 'devcamp_view_tool', git: 'https://github.com/jordanhudgens/devcamp_view_tool'
