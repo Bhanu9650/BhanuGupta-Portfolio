@@ -17,6 +17,6 @@ module ApplicationHelper
 	end
 
 	def copyright_generator
-		DevcampViewTool::Renderer.copyright 'Bhanu Gupta', 'All Rights Reserved'
+		CiaoViewTool::Renderer.copyright 'Bhanu Gupta', 'All rights reserved'
 	end
 end
