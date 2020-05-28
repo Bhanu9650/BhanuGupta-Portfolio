@@ -50,8 +50,9 @@ gem 'friendly_id', '~> 5.2.4'
 gem 'devise', '~> 4.7', '>= 4.7.1'
 gem 'ostruct', '~> 0.1.0'
 
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
+
 gem 'bootstrap', '~> 4.0.0.alpha6'
-gem 'jquery-rails'
 
 gem 'ciao_view_tool', '~> 0.1.0'
 
