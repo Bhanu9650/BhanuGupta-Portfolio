@@ -52,7 +52,7 @@ gem 'ostruct', '~> 0.1.0'
 
 gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 
-gem 'bootstrap', '~> 4.0.0.alpha6'
+gem 'bootstrap', '~> 4.3.1'
 
 gem 'ciao_view_tool', '~> 0.1.0'
 
