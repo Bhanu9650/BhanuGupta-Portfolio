@@ -7,6 +7,11 @@ environment.plugins.append('Provide',
     jQuery: 'jquery',
     Popper: ['popper.js', 'default']
   })
-)
+);
+
+const aliasConfig = {
+    'jquery': 'jquery-ui-dist/external/jquery/jquery.js',
+    'jquery-ui': 'jquery-ui-dist/jquery-ui.js'
+};
 
 module.exports = environment
